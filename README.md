@@ -7,6 +7,7 @@ server-minimal/
 
 # Roteiro
 
+<pre>
 1 - baixar os fontes
 2 - compilar os pacotes do sistema ou baixar pronto do slackware.com
 3 - construir initrd.gz contendo:
@@ -19,3 +20,4 @@ server-minimal/
 
 4 - construir ISO
 
+</pre>
